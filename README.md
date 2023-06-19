@@ -1,5 +1,5 @@
 # msp430-lm35-RGBled
- RGB Led thermometer with lm35 temperature sensor.
+ RGB Led Thermometer with lm35 temperature sensor.
 
  The MSP430G2553 microcontroller was used in the project. The LM35 temperature sensor produces an output voltage of 10mV per degree.
  Using the necessary mathematical calculations under a 3.3V reference voltage with the MSP430, a 10-bit ADC measurement is performed.
